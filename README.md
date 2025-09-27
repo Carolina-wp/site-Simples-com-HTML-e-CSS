@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="exemplo.jpg" alt="Preview do site" width="700">
+  <img src="exemplo.png" alt="Preview do site" width="700">
 </p>
 
 ---
