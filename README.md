@@ -52,10 +52,11 @@ O objetivo é ajudar iniciantes a compreenderem como estruturar páginas da web 
 ## 📸 Demonstração  
 
 <p align="center">
-  <a href="exemplo-de-site-simples](https://carolina-wp.github.io/site-Simples-com-HTML-e-CSS/" target="_blank">
+  <a href="https://carolina-wp.github.io/site-Simples-com-HTML-e-CSS/" target="_blank">
     🔗 Clique aqui para ver o site rodando!
   </a>
 </p>
+
 
 ---
 
