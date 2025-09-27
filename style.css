@@ -1,0 +1,78 @@
+/* Reset simples */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Cabeçalho com imagem */
+.banner {
+    background: url('https://picsum.photos/1200/400') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 3rem 1rem;
+}
+
+.banner h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.banner p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    background: rgba(0,0,0,0.4);
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+nav a:hover {
+    background: rgba(0,0,0,0.7);
+}
+
+/* Conteúdo */
+main {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+}
+
+main h2 {
+    color: #4CAF50;
+    margin-bottom: 0.5rem;
+}
+
+main p, main ul {
+    margin-bottom: 1.5rem;
+}
+
+/* Rodapé */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
