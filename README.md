@@ -52,7 +52,7 @@ O objetivo é ajudar iniciantes a compreenderem como estruturar páginas da web 
 ## 📸 Demonstração  
 
 <p align="center">
-  <a href="(https://exemplo-de-site-simples.netlify.app/)" target="_blank">
+  <a href="[https://exemplo-de-site-simples.netlify.app/]" target="_blank">
     🔗 Clique aqui para ver o site rodando!
   </a>
 </p>
